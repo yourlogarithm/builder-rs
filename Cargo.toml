@@ -2,6 +2,11 @@
 name = "builder-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["Vlad-Sebastian Cretu <vlad.sebastian.cretu.dev@gmail.com>"]
+description = "A procedural macro for generating builder patterns for Rust structs."
+license-file = "LICENSE"
+repository = "https://github.com/yourlogarithm/builder-rs"
+readme = "README.md"
 
 [lib]
 proc-macro = true
