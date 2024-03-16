@@ -4,7 +4,7 @@ pub struct NonDefault {}
 
 #[derive(Builder)]
 pub struct Foo {
-	d: NonDefault
+    d: NonDefault
 }
 
 fn main() {
